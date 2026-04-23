@@ -1,7 +1,5 @@
 import "./Home.css";
 import profile from "../assets/profile.jpg";
-import resume from "../assets/resume.pdf";
-
 function Home() {
   return (
     <div className="container">
@@ -31,14 +29,7 @@ function Home() {
             >
               LinkedIn →
             </a>
-            <a
-              href={resume}
-              target="_blank"
-              rel="noopener noreferrer"
-              className="btn-ghost"
-            >
-              View Resume
-            </a>
+            <a href="/resume.pdf" download className="resume-btn" > Download Resume </a>
           </div>
         </div>
 
