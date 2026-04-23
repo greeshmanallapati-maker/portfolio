@@ -102,7 +102,7 @@ function Home() {
           <div className="tl-right">
             <div className="tl-title">B.Tech in Artificial Intelligence</div>
             <div className="tl-sub">Mahindra University, Hyderabad</div>
-            <div className="tl-date">2022 – Present · 3rd Year</div>
+            <div className="tl-date">2023 – Present · 3rd Year</div>
           </div>
         </div>
         <div className="tl-item">
@@ -111,8 +111,8 @@ function Home() {
           </div>
           <div className="tl-right">
             <div className="tl-title">Higher Secondary (12th)</div>
-            <div className="tl-sub">Mathematics, Physics, Computer Science</div>
-            <div className="tl-date">Completed 2022</div>
+            <div className="tl-sub">Mathematics, Physics, Chemistry</div>
+            <div className="tl-date">Completed 2023</div>
           </div>
         </div>
       </div>
